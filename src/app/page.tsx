@@ -67,7 +67,7 @@ export default function Home() {
         ">
           <Card
             imageUrl={LotteryCoverImage.src}
-            title="Luck-Based MEME Coin Recommendations"
+            title="Trading Strategy Recommendation"
             description="Our unique algorithm assesses various factors to provide MEME coin recommendations tailored to your personal luck. "
           />
           <Card
